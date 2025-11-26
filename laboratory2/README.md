@@ -6,17 +6,13 @@ A Flutter mobile application developed as part of Laboratory Exercise 2.
 
 
 
-🎥 Demo
 
 
-
-Below is a short preview of the application in action:
+\## Video recorded
 
 !\[App Demo](Kniga\_so\_recepti.gif)
 
-
-
-🚀 Getting Started
+\## Getting Started
 
 
 
